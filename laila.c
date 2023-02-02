@@ -34,10 +34,10 @@ int main(){
         printf("Danke fuer Ihren Einkauf");
     }
     if (Einwurf > Preis)
-    /*{
+    {
         S = Einwurf - Preis;
         printf("Sie bekommen %.2f  zurueck.", S);
-    }*/
+    }
     else{
         printf("Bitte werfen Sie %.2f  ein", Preis);
     }
